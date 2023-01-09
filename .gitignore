@@ -1,3 +1,4 @@
+*.DS_Store
 # .gitignore for hms_sys project
 # Geany project-files
 *.geany
